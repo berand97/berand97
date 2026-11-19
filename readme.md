@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Andres Patiño — Desarrollador FullStack" />
+<img src="assets/hero.svg" width="100%" alt="Andres Patiño — Full Stack Developer" />
+
+<br/>
+
+<img src="assets/clients.svg" width="100%" alt="Companies I have worked with" />
+
+<br/><br/>
+
+<img src="assets/experience.svg" width="100%" alt="My experience" />
+
+<br/><br/>
+
+<img src="assets/projects.svg" width="100%" alt="Projects I have worked on" />
 
 <br/><br/>
 
@@ -58,29 +70,12 @@
 
 <br/><br/><br/>
 
-<img src="assets/experience.svg" width="100%" alt="Trayectoria" />
-
-<br/><br/>
-
-<img src="assets/contact.svg" width="100%" alt="Hablemos" />
-
-<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:97bermudez.andres@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email" /></a>
-
-<br/><br/>
-
-<img src="assets/opensource.svg" width="100%" alt="Mi código, a la vista" />
-
-<a href="https://github.com/berand97?tab=repositories"><img src="assets/btn-github.svg" height="44" alt="Ver repositorios" /></a>
-
-<br/><br/>
-
 <img src="assets/stats.svg" width="100%" alt="Actividad en GitHub" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&hide_border=true&bg_color=151515&title_color=86EFAC&icon_color=86EFAC&text_color=E7E9EC&ring_color=86EFAC" height="170" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&hide_border=true&bg_color=151515&title_color=86EFAC&text_color=E7E9EC" height="170" alt="Lenguajes" />
+<img src="https://github-readme-stats.vercel.app/api?username=berand97&show_icons=true&hide_border=true&bg_color=0D0A12&title_color=C16CFF&icon_color=C16CFF&text_color=F3E3FF&ring_color=C16CFF" height="170" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berand97&layout=compact&hide_border=true&bg_color=0D0A12&title_color=C16CFF&text_color=F3E3FF" height="170" alt="Lenguajes" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&hide_border=true&bg_color=151515&color=9AA0A6&line=86EFAC&point=F472B6&area=true&area_color=86EFAC" width="100%" alt="Gráfica de actividad" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=berand97&hide_border=true&bg_color=0D0A12&color=B4ADC0&line=C16CFF&point=AD35FF&area=true&area_color=C16CFF" width="100%" alt="Gráfica de actividad" />
 
 <br/><br/>
 
@@ -90,10 +85,12 @@
 
 <img src="assets/faq.svg" width="100%" alt="Preguntas frecuentes" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="assets/contact.svg" width="100%" alt="Contact" />
 
-<div align="center">
-<img src="assets/footer.svg" width="100%" alt="Contacto" />
+<a href="https://www.linkedin.com/in/andres-patino-bermudez/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:97bermudez.andres@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email" /></a>&nbsp;
+<a href="https://github.com/berand97?tab=repositories"><img src="assets/btn-github.svg" height="44" alt="View repositories" /></a>
+
 </div>
